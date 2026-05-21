@@ -13,5 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="CppAdvancedLearning">
+      <UniqueIdentifier>{b3ef9370-8f9f-4e14-bcba-572acdcd285c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals">
+      <UniqueIdentifier>{7e751c86-7171-437e-a879-6698cc4b1122}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\01- const- correctedness">
+      <UniqueIdentifier>{61b6ca9f-bc27-47dc-b4e5-935aa7a0fdbc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PlayerClass.cpp">
+      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\01- const- correctedness</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
