@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CppAdvancedLearning/CppAdvancedLearning.vcxproj" />
+  <Project Path="CppAdvancedLearning/CppAdvancedLearning.vcxproj" Id="99468e78-574c-46b5-92ea-078ebaaa9f58" />
 </Solution>

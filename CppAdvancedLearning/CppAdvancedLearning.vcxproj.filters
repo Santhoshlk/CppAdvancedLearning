@@ -22,10 +22,19 @@
     <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\01- const- correctedness">
       <UniqueIdentifier>{61b6ca9f-bc27-47dc-b4e5-935aa7a0fdbc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\02-mutable - InitLists - Terinary">
+      <UniqueIdentifier>{5887e742-c6e3-4f43-98cc-e8595bc6eae2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
       <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\01- const- correctedness</Filter>
+    </ClCompile>
+    <ClCompile Include="Auto.cpp">
+      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\02-mutable - InitLists - Terinary</Filter>
+    </ClCompile>
+    <ClCompile Include="MemberInitList.cpp">
+      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\02-mutable - InitLists - Terinary</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
