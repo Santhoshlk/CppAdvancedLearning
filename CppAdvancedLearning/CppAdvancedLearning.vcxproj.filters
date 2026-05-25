@@ -25,6 +25,9 @@
     <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\02-mutable - InitLists - Terinary">
       <UniqueIdentifier>{5887e742-c6e3-4f43-98cc-e8595bc6eae2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit">
+      <UniqueIdentifier>{d63c84e0-e19b-4c7b-81fb-89de9c16c4bc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -35,6 +38,15 @@
     </ClCompile>
     <ClCompile Include="MemberInitList.cpp">
       <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\02-mutable - InitLists - Terinary</Filter>
+    </ClCompile>
+    <ClCompile Include="CEInitiate.cpp">
+      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
+    </ClCompile>
+    <ClCompile Include="CENewKeyword.cpp">
+      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
+    </ClCompile>
+    <ClCompile Include="ImplicitExplict.cpp">
+      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
