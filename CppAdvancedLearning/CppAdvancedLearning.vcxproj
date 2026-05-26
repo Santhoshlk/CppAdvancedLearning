@@ -132,6 +132,7 @@
     <ClCompile Include="CENewKeyword.cpp" />
     <ClCompile Include="ImplicitExplict.cpp" />
     <ClCompile Include="MemberInitList.cpp" />
+    <ClCompile Include="MiniProject1.cpp" />
     <ClCompile Include="PlayerClass.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

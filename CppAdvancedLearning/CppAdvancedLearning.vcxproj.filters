@@ -48,5 +48,8 @@
     <ClCompile Include="ImplicitExplict.cpp">
       <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
     </ClCompile>
+    <ClCompile Include="MiniProject1.cpp">
+      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
