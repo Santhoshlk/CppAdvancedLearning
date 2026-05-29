@@ -28,6 +28,9 @@
     <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit">
       <UniqueIdentifier>{d63c84e0-e19b-4c7b-81fb-89de9c16c4bc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\04 05-SmartPointers - Lifetimes">
+      <UniqueIdentifier>{d011609b-7643-4f64-9c6b-82274116d8dc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -50,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="MiniProject1.cpp">
       <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
+    </ClCompile>
+    <ClCompile Include="this.cpp">
+      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\04 05-SmartPointers - Lifetimes</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartPointerMiniProject-1.cpp">
+      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\04 05-SmartPointers - Lifetimes</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

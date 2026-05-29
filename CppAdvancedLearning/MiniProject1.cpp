@@ -46,7 +46,7 @@
 //
 //	int GetoutDamage()
 //	{
-//		return (int)(E_Health / E_MaxHealth) * (weapon->GetAttackPower());
+//		return (int)((E_Health / E_MaxHealth))* (weapon->GetAttackPower());
 //	}
 //
 //	~Entity()
