@@ -31,6 +31,9 @@
     <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\04 05-SmartPointers - Lifetimes">
       <UniqueIdentifier>{d011609b-7643-4f64-9c6b-82274116d8dc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\06- Copy Constructor and books and review">
+      <UniqueIdentifier>{8f6c0fde-9999-44dd-a011-074809fe3d0b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -59,6 +62,12 @@
     </ClCompile>
     <ClCompile Include="SmartPointerMiniProject-1.cpp">
       <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\04 05-SmartPointers - Lifetimes</Filter>
+    </ClCompile>
+    <ClCompile Include="CopyConstructor.cpp">
+      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\06- Copy Constructor and books and review</Filter>
+    </ClCompile>
+    <ClCompile Include="CopyingSandbox.cpp">
+      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\06- Copy Constructor and books and review</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
