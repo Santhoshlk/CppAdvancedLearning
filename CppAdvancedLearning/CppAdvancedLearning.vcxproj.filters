@@ -34,6 +34,12 @@
     <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\06- Copy Constructor and books and review">
       <UniqueIdentifier>{8f6c0fde-9999-44dd-a011-074809fe3d0b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Week 2 - Memory Internals">
+      <UniqueIdentifier>{9e47cd65-d131-41f2-9d3c-d44627d26579}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Week 2 - Memory Internals\01 - Arrow - Vector">
+      <UniqueIdentifier>{e81ce729-c735-40c5-bb79-d77945c42c91}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -68,6 +74,12 @@
     </ClCompile>
     <ClCompile Include="CopyingSandbox.cpp">
       <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\06- Copy Constructor and books and review</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrow.cpp">
+      <Filter>CppAdvancedLearning\Week 2 - Memory Internals\01 - Arrow - Vector</Filter>
+    </ClCompile>
+    <ClCompile Include="Optimize Dynamic Vector.cpp">
+      <Filter>CppAdvancedLearning\Week 2 - Memory Internals\01 - Arrow - Vector</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

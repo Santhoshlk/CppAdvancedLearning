@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Arrow.cpp" />
     <ClCompile Include="Auto.cpp" />
     <ClCompile Include="CEInitiate.cpp" />
     <ClCompile Include="CENewKeyword.cpp" />
     <ClCompile Include="CopyConstructor.cpp" />
     <ClCompile Include="CopyingSandbox.cpp" />
+    <ClCompile Include="Optimize Dynamic Vector.cpp" />
     <ClCompile Include="ImplicitExplict.cpp" />
     <ClCompile Include="MemberInitList.cpp" />
     <ClCompile Include="MiniProject1.cpp" />
