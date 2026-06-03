@@ -40,6 +40,9 @@
     <Filter Include="CppAdvancedLearning\Week 2 - Memory Internals\01 - Arrow - Vector">
       <UniqueIdentifier>{e81ce729-c735-40c5-bb79-d77945c42c91}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Week 2 - Memory Internals\02-Templates - Vector">
+      <UniqueIdentifier>{1fef8fcb-ec2f-44b5-8192-2f9f0528880d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -80,6 +83,12 @@
     </ClCompile>
     <ClCompile Include="Optimize Dynamic Vector.cpp">
       <Filter>CppAdvancedLearning\Week 2 - Memory Internals\01 - Arrow - Vector</Filter>
+    </ClCompile>
+    <ClCompile Include="templates.cpp">
+      <Filter>CppAdvancedLearning\Week 2 - Memory Internals\02-Templates - Vector</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorSTL.cpp">
+      <Filter>CppAdvancedLearning\Week 2 - Memory Internals\02-Templates - Vector</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -139,7 +139,9 @@
     <ClCompile Include="MiniProject1.cpp" />
     <ClCompile Include="PlayerClass.cpp" />
     <ClCompile Include="SmartPointerMiniProject-1.cpp" />
+    <ClCompile Include="templates.cpp" />
     <ClCompile Include="this.cpp" />
+    <ClCompile Include="VectorSTL.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
