@@ -24,7 +24,7 @@
 //	float x, y, z;
 //};
 //
-//int main()
+//int main(void)
 //{
 //	std::unique_ptr< const Entity> entity = std::make_unique<Entity>(100);
 //

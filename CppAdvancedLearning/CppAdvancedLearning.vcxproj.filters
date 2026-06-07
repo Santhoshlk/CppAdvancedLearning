@@ -90,5 +90,8 @@
     <ClCompile Include="VectorSTL.cpp">
       <Filter>CppAdvancedLearning\Week 2 - Memory Internals\02-Templates - Vector</Filter>
     </ClCompile>
+    <ClCompile Include="Copy.cpp">
+      <Filter>CppAdvancedLearning\Week 2 - Memory Internals</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
