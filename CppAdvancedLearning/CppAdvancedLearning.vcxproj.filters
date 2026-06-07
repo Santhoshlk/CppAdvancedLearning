@@ -43,6 +43,12 @@
     <Filter Include="CppAdvancedLearning\Week 2 - Memory Internals\02-Templates - Vector">
       <UniqueIdentifier>{1fef8fcb-ec2f-44b5-8192-2f9f0528880d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\EMC">
+      <UniqueIdentifier>{84c346ca-6ec5-4300-af9b-c6ea4cc84b26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\EMC\SmartPointer">
+      <UniqueIdentifier>{0eb85545-f975-4ab8-b8f1-7b20eab762fc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -92,6 +98,9 @@
     </ClCompile>
     <ClCompile Include="Copy.cpp">
       <Filter>CppAdvancedLearning\Week 2 - Memory Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="Unique1.cpp">
+      <Filter>CppAdvancedLearning\EMC\SmartPointer</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
