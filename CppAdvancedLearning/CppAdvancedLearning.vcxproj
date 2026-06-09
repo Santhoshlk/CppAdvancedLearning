@@ -131,6 +131,7 @@
   <ItemGroup>
     <ClCompile Include="Arrow.cpp" />
     <ClCompile Include="Auto.cpp" />
+    <ClCompile Include="Casting.cpp" />
     <ClCompile Include="CEInitiate.cpp" />
     <ClCompile Include="CENewKeyword.cpp" />
     <ClCompile Include="Copy.cpp" />

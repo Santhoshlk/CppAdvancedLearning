@@ -49,6 +49,9 @@
     <Filter Include="CppAdvancedLearning\EMC\SmartPointer">
       <UniqueIdentifier>{0eb85545-f975-4ab8-b8f1-7b20eab762fc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Week3">
+      <UniqueIdentifier>{b9fcacbf-70ea-434c-a339-b8a6a8847780}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -101,6 +104,9 @@
     </ClCompile>
     <ClCompile Include="Unique1.cpp">
       <Filter>CppAdvancedLearning\EMC\SmartPointer</Filter>
+    </ClCompile>
+    <ClCompile Include="Casting.cpp">
+      <Filter>CppAdvancedLearning\Week3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
