@@ -1,77 +1,67 @@
-# CppAdvancedLearning
+🧠 CppAdvancedLearning
+A structured 6-week C++ deep-dive into memory, ownership, and modern C++ — built for game development.
+This is not a tutorial-follow repo. Every file here is code written from scratch after
+studying a concept, as part of a strict learn → explain → code solo → commit protocol.
+No generated code, no copy-paste — the commits are the proof of understanding.
 
-My Journey to learn c++ i will tag the resources and projects and update weekly projects :
-1) This is a structured plan anyone can use to learn advanced c++ over span of 4 months.
-2) This foucused on game dev side of projects.
-3) The main focus are Udacity Naodegree + Books + Subprojects + Cherno (as Main Learning Resource).
-4) // The whole Progression Diagram 
-5) cpp-advanced-learning/
-│
-├── README.md                          ← main repo overview (write at end)
-├── .gitignore                         ← C++ gitignore (VS-specific)
-│
-├── week-01-objects-fundamentals/
-│   ├── README.md                      ← what this week covered
-│   ├── 01-const-correctness/
-│   │   ├── main.cpp
-│   │   └── README.md
-│   ├── 02-init-lists/
-│   │   ├── main.cpp
-│   │   └── README.md
-│   ├── 03-stack-vs-heap-objects/
-│   │   ├── main.cpp
-│   │   └── README.md
-│   ├── 04-explicit-and-this/
-│   │   ├── main.cpp
-│   │   └── README.md
-│   ├── 05-lifetime-and-scope/
-│   │   ├── main.cpp
-│   │   └── README.md
-│   └── capstone-resource-handle/
-│       ├── FileHandle.h
-│       ├── FileHandle.cpp
-│       ├── main.cpp
-│       └── README.md
-│
-├── week-02-memory-model/
-│   ├── README.md
-│   ├── 06-copy-constructor-buffer/
-│   ├── 07-vector-usage-deep/
-│   ├── 08-stack-vs-heap-benchmark/
-│   └── capstone-memory-tracker/
-│       ├── MemoryTracker.h
-│       ├── MemoryTracker.cpp
-│       ├── main.cpp
-│       └── README.md
-│
-├── week-03-allocators-part1/          ← Arena + Pool
-│   ├── README.md
-│   ├── 09-arena-allocator/
-│   └── 10-pool-allocator/
-│
-├── week-04-allocators-part2/          ← Stack + benchmark + capstone
-│   ├── README.md
-│   ├── 11-stack-allocator/
-│   ├── 12-allocator-benchmark-suite/
-│   └── capstone-game-loop-allocators/
-│       └── README.md                  ← banger README, this is the showcase
-│
-├── week-05-move-semantics-vector/
-│   ├── README.md
-│   ├── 13-lvalue-rvalue-playground/
-│   ├── 14-buffer-with-move/
-│   └── capstone-simple-vector/
-│       ├── SimpleVector.h
-│       ├── main.cpp
-│       └── README.md
-│
-└── week-06-concurrency-and-polish/
-    ├── README.md
-    ├── 15-threads-basics/
-    ├── 16-thread-safe-tracker/
-    └── final-reflections.md
+⚙️ The Block
+A 6-week intensive focused on the C++ that actually matters for gameplay programming:
+memory, object lifetime, ownership, and (upcoming) concurrency.
+Primary spine:
+
+📕 Effective Modern C++ — Scott Meyers (mapped week by week)
+📗 A Tour of C++ — Bjarne Stroustrup (reference/lookup)
+📘 C++ Concurrency in Action — Anthony Williams (concurrency weeks)
+🎥 The Cherno C++ series
+
+Tooling:
+
+Visual Studio 2026 · Cppcheck static analysis wired into the IDE · AddressSanitizer
+Every exercise passes static analysis before commit
 
 
+🗺️ Progress
+✅ Week 1 — Object Lifecycle & Fundamentals
+Object lifetime in and beyond scope, new keyword, implicit/explicit conversions,
+casting, const / mutable, member initializer lists, stack vs heap, this,
+templates, auto.
+StackVsHeap.cpp · CEInitiate.cpp · CENewKeyword.cpp · Casting.cpp ·
+ImplicitExplicit.cpp · MemberInitList.cpp · this.cpp · templates.cpp ·
+Auto.cpp · MiniProject1.cpp
+✅ Week 2 — Copy Semantics & Move Semantics
+Copy constructors, deep vs shallow copies, the Rule of Five, move semantics,
+arrow operator, STL vector internals and optimization.
+Copy.cpp · CopyConstructor.cpp · CopyingSandbox.cpp · Arrow.cpp ·
+VectorSTL.cpp · Optimize Dynamic Vector.cpp · PlayerClass.cpp ·
+LinearAllocation.cpp
+🔄 Week 3 — Smart Pointers & Memory Layout (in progress)
+unique_ptr, shared_ptr, weak_ptr — ownership as a destructor question.
+Memory layout, AoS vs SoA ahead.
+SmartPointers.cpp · Unique1.cpp · SmartPointerMiniProject-1.cpp
+⏳ Weeks 4–6 — Concurrency
+Threads, synchronization, atomics, lock-free thinking — via
+C++ Concurrency in Action.
+
+🎯 The Method
+
+Study the concept (book chapter + video)
+Explain it back in my own words until it holds up under questioning
+Code solo — cumulative challenges that integrate every prior concept,
+including deliberate cases where a tool is not needed (judgment over habit)
+Analyze — Cppcheck clean before commit
+Commit — daily, no gaps
+
+Challenges are game-flavored (player classes, combat encounters, inventory-style
+ownership problems) because this block exists to feed directly into Unreal Engine
+C++ work.
+
+🔗 Related Work
+
+⚔️ CombatLearning — flagship UE5 GAS
+Action RPG, 400+ commits
+🕯️ AshesBeyondTheGrave —
+UE5 C++ foundation project
 
 
-   // like taht daily for 6 days 1.5 hr +1.5 hr as the schedule for 6 days a week as this matters
+📫 Connect
+📧 lukksanthosh@gmail.com
