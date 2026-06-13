@@ -108,5 +108,11 @@
     <ClCompile Include="Casting.cpp">
       <Filter>CppAdvancedLearning\Week3</Filter>
     </ClCompile>
+    <ClCompile Include="landrvalues.cpp">
+      <Filter>CppAdvancedLearning\Week3</Filter>
+    </ClCompile>
+    <ClCompile Include="operatoroverloading.cpp">
+      <Filter>CppAdvancedLearning\Week3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
