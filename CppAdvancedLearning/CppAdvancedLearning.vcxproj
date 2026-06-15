@@ -137,7 +137,9 @@
     <ClCompile Include="Copy.cpp" />
     <ClCompile Include="CopyConstructor.cpp" />
     <ClCompile Include="CopyingSandbox.cpp" />
+    <ClCompile Include="EMC_LandRvalues.cpp" />
     <ClCompile Include="landrvalues.cpp" />
+    <ClCompile Include="LvRvalues.cpp" />
     <ClCompile Include="operatoroverloading.cpp" />
     <ClCompile Include="Optimize Dynamic Vector.cpp" />
     <ClCompile Include="ImplicitExplict.cpp" />
