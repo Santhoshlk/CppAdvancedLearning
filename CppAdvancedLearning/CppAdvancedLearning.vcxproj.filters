@@ -120,5 +120,8 @@
     <ClCompile Include="EMC_LandRvalues.cpp">
       <Filter>CppAdvancedLearning\EMC</Filter>
     </ClCompile>
+    <ClCompile Include="MoveSemantics-1.cpp">
+      <Filter>CppAdvancedLearning\Week3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

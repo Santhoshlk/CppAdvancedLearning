@@ -140,6 +140,7 @@
     <ClCompile Include="EMC_LandRvalues.cpp" />
     <ClCompile Include="landrvalues.cpp" />
     <ClCompile Include="LvRvalues.cpp" />
+    <ClCompile Include="MoveSemantics-1.cpp" />
     <ClCompile Include="operatoroverloading.cpp" />
     <ClCompile Include="Optimize Dynamic Vector.cpp" />
     <ClCompile Include="ImplicitExplict.cpp" />
