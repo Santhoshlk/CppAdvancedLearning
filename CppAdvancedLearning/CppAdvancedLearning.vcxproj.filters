@@ -123,5 +123,8 @@
     <ClCompile Include="MoveSemantics-1.cpp">
       <Filter>CppAdvancedLearning\Week3</Filter>
     </ClCompile>
+    <ClCompile Include="Move.cpp">
+      <Filter>CppAdvancedLearning\Week3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

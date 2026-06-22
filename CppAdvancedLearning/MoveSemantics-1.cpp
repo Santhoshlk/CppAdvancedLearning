@@ -76,5 +76,13 @@
 //
 //	// temp object ownership exchange
 //	Entity b("Santhosh");
-//	
+//
+//	Entity	a("Santhosh");
+//
+//
+//	// i used spaces
+//	const  int a1 = 5;
+//	// i	used	tabs
+//	 const int	b1	=	5;;
+//
 //}
