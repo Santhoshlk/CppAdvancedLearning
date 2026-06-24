@@ -134,6 +134,8 @@
     <ClCompile Include="Casting.cpp" />
     <ClCompile Include="CEInitiate.cpp" />
     <ClCompile Include="CENewKeyword.cpp" />
+    <ClCompile Include="constexpr-1.cpp" />
+    <ClCompile Include="constexpr-2.cpp" />
     <ClCompile Include="Copy.cpp" />
     <ClCompile Include="CopyConstructor.cpp" />
     <ClCompile Include="CopyingSandbox.cpp" />
