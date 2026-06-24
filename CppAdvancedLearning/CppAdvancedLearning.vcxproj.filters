@@ -52,6 +52,9 @@
     <Filter Include="CppAdvancedLearning\Week3">
       <UniqueIdentifier>{b9fcacbf-70ea-434c-a339-b8a6a8847780}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Week 4">
+      <UniqueIdentifier>{427be8ec-3fca-4015-9f68-d749058e69a8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -125,6 +128,9 @@
     </ClCompile>
     <ClCompile Include="Move.cpp">
       <Filter>CppAdvancedLearning\Week3</Filter>
+    </ClCompile>
+    <ClCompile Include="noexecpt.cpp">
+      <Filter>CppAdvancedLearning\Week 4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

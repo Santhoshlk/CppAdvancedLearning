@@ -142,6 +142,7 @@
     <ClCompile Include="LvRvalues.cpp" />
     <ClCompile Include="Move.cpp" />
     <ClCompile Include="MoveSemantics-1.cpp" />
+    <ClCompile Include="noexecpt.cpp" />
     <ClCompile Include="operatoroverloading.cpp" />
     <ClCompile Include="Optimize Dynamic Vector.cpp" />
     <ClCompile Include="ImplicitExplict.cpp" />
