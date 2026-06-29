@@ -16,127 +16,151 @@
     <Filter Include="CppAdvancedLearning">
       <UniqueIdentifier>{b3ef9370-8f9f-4e14-bcba-572acdcd285c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals">
-      <UniqueIdentifier>{7e751c86-7171-437e-a879-6698cc4b1122}</UniqueIdentifier>
+    <Filter Include="CppAdvancedLearning\Concurrency">
+      <UniqueIdentifier>{b9db6da9-668f-46ac-9efb-9a06d3fc206e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\01- const- correctedness">
-      <UniqueIdentifier>{61b6ca9f-bc27-47dc-b4e5-935aa7a0fdbc}</UniqueIdentifier>
+    <Filter Include="CppAdvancedLearning\Concurrency\Week-1">
+      <UniqueIdentifier>{f52630b6-f99e-41a4-8f15-dcc78fe2bd2c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\02-mutable - InitLists - Terinary">
-      <UniqueIdentifier>{5887e742-c6e3-4f43-98cc-e8595bc6eae2}</UniqueIdentifier>
+    <Filter Include="CppAdvancedLearning\Memory">
+      <UniqueIdentifier>{16566522-e8aa-4e59-8c56-49002844a158}</UniqueIdentifier>
     </Filter>
-    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit">
-      <UniqueIdentifier>{d63c84e0-e19b-4c7b-81fb-89de9c16c4bc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\04 05-SmartPointers - Lifetimes">
-      <UniqueIdentifier>{d011609b-7643-4f64-9c6b-82274116d8dc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="CppAdvancedLearning\Week1 - Object - fundamentals\06- Copy Constructor and books and review">
-      <UniqueIdentifier>{8f6c0fde-9999-44dd-a011-074809fe3d0b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="CppAdvancedLearning\Week 2 - Memory Internals">
-      <UniqueIdentifier>{9e47cd65-d131-41f2-9d3c-d44627d26579}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="CppAdvancedLearning\Week 2 - Memory Internals\01 - Arrow - Vector">
-      <UniqueIdentifier>{e81ce729-c735-40c5-bb79-d77945c42c91}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="CppAdvancedLearning\Week 2 - Memory Internals\02-Templates - Vector">
-      <UniqueIdentifier>{1fef8fcb-ec2f-44b5-8192-2f9f0528880d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="CppAdvancedLearning\EMC">
+    <Filter Include="CppAdvancedLearning\Memory\EMC">
       <UniqueIdentifier>{84c346ca-6ec5-4300-af9b-c6ea4cc84b26}</UniqueIdentifier>
     </Filter>
-    <Filter Include="CppAdvancedLearning\EMC\SmartPointer">
+    <Filter Include="CppAdvancedLearning\Memory\EMC\SmartPointer">
       <UniqueIdentifier>{0eb85545-f975-4ab8-b8f1-7b20eab762fc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="CppAdvancedLearning\Week3">
+    <Filter Include="CppAdvancedLearning\Memory\Week 2 - Memory Internals">
+      <UniqueIdentifier>{9e47cd65-d131-41f2-9d3c-d44627d26579}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Memory\Week 2 - Memory Internals\01 - Arrow - Vector">
+      <UniqueIdentifier>{e81ce729-c735-40c5-bb79-d77945c42c91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Memory\Week 2 - Memory Internals\02-Templates - Vector">
+      <UniqueIdentifier>{1fef8fcb-ec2f-44b5-8192-2f9f0528880d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Memory\Week 4">
+      <UniqueIdentifier>{427be8ec-3fca-4015-9f68-d749058e69a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Memory\Week1 - Object - fundamentals">
+      <UniqueIdentifier>{7e751c86-7171-437e-a879-6698cc4b1122}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Memory\Week1 - Object - fundamentals\01- const- correctedness">
+      <UniqueIdentifier>{61b6ca9f-bc27-47dc-b4e5-935aa7a0fdbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Memory\Week1 - Object - fundamentals\02-mutable - InitLists - Terinary">
+      <UniqueIdentifier>{5887e742-c6e3-4f43-98cc-e8595bc6eae2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Memory\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit">
+      <UniqueIdentifier>{d63c84e0-e19b-4c7b-81fb-89de9c16c4bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Memory\Week1 - Object - fundamentals\04 05-SmartPointers - Lifetimes">
+      <UniqueIdentifier>{d011609b-7643-4f64-9c6b-82274116d8dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Memory\Week1 - Object - fundamentals\06- Copy Constructor and books and review">
+      <UniqueIdentifier>{8f6c0fde-9999-44dd-a011-074809fe3d0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CppAdvancedLearning\Memory\Week3">
       <UniqueIdentifier>{b9fcacbf-70ea-434c-a339-b8a6a8847780}</UniqueIdentifier>
     </Filter>
-    <Filter Include="CppAdvancedLearning\Week 4">
-      <UniqueIdentifier>{427be8ec-3fca-4015-9f68-d749058e69a8}</UniqueIdentifier>
+    <Filter Include="CppAdvancedLearning\CourseWork">
+      <UniqueIdentifier>{21dd14c3-82f1-467c-8d8e-bcc780fe2c29}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
-      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\01- const- correctedness</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week1 - Object - fundamentals\01- const- correctedness</Filter>
     </ClCompile>
     <ClCompile Include="Auto.cpp">
-      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\02-mutable - InitLists - Terinary</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week1 - Object - fundamentals\02-mutable - InitLists - Terinary</Filter>
     </ClCompile>
     <ClCompile Include="MemberInitList.cpp">
-      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\02-mutable - InitLists - Terinary</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week1 - Object - fundamentals\02-mutable - InitLists - Terinary</Filter>
     </ClCompile>
     <ClCompile Include="CEInitiate.cpp">
-      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
     </ClCompile>
     <ClCompile Include="CENewKeyword.cpp">
-      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
     </ClCompile>
     <ClCompile Include="ImplicitExplict.cpp">
-      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
     </ClCompile>
     <ClCompile Include="MiniProject1.cpp">
-      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week1 - Object - fundamentals\03-Scope-New-Implcit V Explicit</Filter>
     </ClCompile>
     <ClCompile Include="this.cpp">
-      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\04 05-SmartPointers - Lifetimes</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week1 - Object - fundamentals\04 05-SmartPointers - Lifetimes</Filter>
     </ClCompile>
     <ClCompile Include="SmartPointerMiniProject-1.cpp">
-      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\04 05-SmartPointers - Lifetimes</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week1 - Object - fundamentals\04 05-SmartPointers - Lifetimes</Filter>
     </ClCompile>
     <ClCompile Include="CopyConstructor.cpp">
-      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\06- Copy Constructor and books and review</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week1 - Object - fundamentals\06- Copy Constructor and books and review</Filter>
     </ClCompile>
     <ClCompile Include="CopyingSandbox.cpp">
-      <Filter>CppAdvancedLearning\Week1 - Object - fundamentals\06- Copy Constructor and books and review</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week1 - Object - fundamentals\06- Copy Constructor and books and review</Filter>
     </ClCompile>
     <ClCompile Include="Arrow.cpp">
-      <Filter>CppAdvancedLearning\Week 2 - Memory Internals\01 - Arrow - Vector</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week 2 - Memory Internals\01 - Arrow - Vector</Filter>
     </ClCompile>
     <ClCompile Include="Optimize Dynamic Vector.cpp">
-      <Filter>CppAdvancedLearning\Week 2 - Memory Internals\01 - Arrow - Vector</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week 2 - Memory Internals\01 - Arrow - Vector</Filter>
     </ClCompile>
     <ClCompile Include="templates.cpp">
-      <Filter>CppAdvancedLearning\Week 2 - Memory Internals\02-Templates - Vector</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week 2 - Memory Internals\02-Templates - Vector</Filter>
     </ClCompile>
     <ClCompile Include="VectorSTL.cpp">
-      <Filter>CppAdvancedLearning\Week 2 - Memory Internals\02-Templates - Vector</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week 2 - Memory Internals\02-Templates - Vector</Filter>
     </ClCompile>
     <ClCompile Include="Copy.cpp">
-      <Filter>CppAdvancedLearning\Week 2 - Memory Internals</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week 2 - Memory Internals</Filter>
     </ClCompile>
     <ClCompile Include="Unique1.cpp">
-      <Filter>CppAdvancedLearning\EMC\SmartPointer</Filter>
+      <Filter>CppAdvancedLearning\Memory\EMC\SmartPointer</Filter>
     </ClCompile>
     <ClCompile Include="Casting.cpp">
-      <Filter>CppAdvancedLearning\Week3</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week3</Filter>
     </ClCompile>
     <ClCompile Include="landrvalues.cpp">
-      <Filter>CppAdvancedLearning\Week3</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week3</Filter>
     </ClCompile>
     <ClCompile Include="operatoroverloading.cpp">
-      <Filter>CppAdvancedLearning\Week3</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week3</Filter>
     </ClCompile>
     <ClCompile Include="LvRvalues.cpp">
-      <Filter>CppAdvancedLearning\Week3</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week3</Filter>
     </ClCompile>
     <ClCompile Include="EMC_LandRvalues.cpp">
-      <Filter>CppAdvancedLearning\EMC</Filter>
+      <Filter>CppAdvancedLearning\Memory\EMC</Filter>
     </ClCompile>
     <ClCompile Include="MoveSemantics-1.cpp">
-      <Filter>CppAdvancedLearning\Week3</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week3</Filter>
     </ClCompile>
     <ClCompile Include="Move.cpp">
-      <Filter>CppAdvancedLearning\Week3</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week3</Filter>
     </ClCompile>
     <ClCompile Include="noexecpt.cpp">
-      <Filter>CppAdvancedLearning\Week 4</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week 4</Filter>
     </ClCompile>
     <ClCompile Include="constexpr-1.cpp">
-      <Filter>CppAdvancedLearning\Week 4</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week 4</Filter>
     </ClCompile>
     <ClCompile Include="constexpr-2.cpp">
-      <Filter>CppAdvancedLearning\Week 4</Filter>
+      <Filter>CppAdvancedLearning\Memory\Week 4</Filter>
+    </ClCompile>
+    <ClCompile Include="perfectForwarding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chronoNamespace.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-1</Filter>
+    </ClCompile>
+    <ClCompile Include="E1.cpp">
+      <Filter>CppAdvancedLearning\CourseWork</Filter>
+    </ClCompile>
+    <ClCompile Include="lambdas.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

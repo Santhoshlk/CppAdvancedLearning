@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -134,12 +134,15 @@
     <ClCompile Include="Casting.cpp" />
     <ClCompile Include="CEInitiate.cpp" />
     <ClCompile Include="CENewKeyword.cpp" />
+    <ClCompile Include="chronoNamespace.cpp" />
     <ClCompile Include="constexpr-1.cpp" />
     <ClCompile Include="constexpr-2.cpp" />
     <ClCompile Include="Copy.cpp" />
     <ClCompile Include="CopyConstructor.cpp" />
     <ClCompile Include="CopyingSandbox.cpp" />
+    <ClCompile Include="E1.cpp" />
     <ClCompile Include="EMC_LandRvalues.cpp" />
+    <ClCompile Include="lambdas.cpp" />
     <ClCompile Include="landrvalues.cpp" />
     <ClCompile Include="LvRvalues.cpp" />
     <ClCompile Include="Move.cpp" />
@@ -150,6 +153,7 @@
     <ClCompile Include="ImplicitExplict.cpp" />
     <ClCompile Include="MemberInitList.cpp" />
     <ClCompile Include="MiniProject1.cpp" />
+    <ClCompile Include="perfectForwarding.cpp" />
     <ClCompile Include="PlayerClass.cpp" />
     <ClCompile Include="SmartPointerMiniProject-1.cpp" />
     <ClCompile Include="templates.cpp" />
