@@ -162,5 +162,11 @@
     <ClCompile Include="lambdas.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week-1</Filter>
     </ClCompile>
+    <ClCompile Include="E-2.cpp">
+      <Filter>CppAdvancedLearning\CourseWork</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadLaunch.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
