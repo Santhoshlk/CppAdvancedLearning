@@ -142,6 +142,7 @@
     <ClCompile Include="CopyingSandbox.cpp" />
     <ClCompile Include="E-2.cpp" />
     <ClCompile Include="E1.cpp" />
+    <ClCompile Include="E3.cpp" />
     <ClCompile Include="EMC_LandRvalues.cpp" />
     <ClCompile Include="lambdas.cpp" />
     <ClCompile Include="landrvalues.cpp" />
@@ -159,6 +160,7 @@
     <ClCompile Include="SmartPointerMiniProject-1.cpp" />
     <ClCompile Include="templates.cpp" />
     <ClCompile Include="this.cpp" />
+    <ClCompile Include="ThreadfuncArguments.cpp" />
     <ClCompile Include="ThreadLaunch.cpp" />
     <ClCompile Include="Unique1.cpp" />
     <ClCompile Include="VectorSTL.cpp" />
