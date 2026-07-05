@@ -174,5 +174,17 @@
     <ClCompile Include="ThreadfuncArguments.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week-1</Filter>
     </ClCompile>
+    <ClCompile Include="NativeHandle.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-1</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadID.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-1</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadSleep.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-1</Filter>
+    </ClCompile>
+    <ClCompile Include="threadClass.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

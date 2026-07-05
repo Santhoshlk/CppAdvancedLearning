@@ -149,6 +149,7 @@
     <ClCompile Include="LvRvalues.cpp" />
     <ClCompile Include="Move.cpp" />
     <ClCompile Include="MoveSemantics-1.cpp" />
+    <ClCompile Include="NativeHandle.cpp" />
     <ClCompile Include="noexecpt.cpp" />
     <ClCompile Include="operatoroverloading.cpp" />
     <ClCompile Include="Optimize Dynamic Vector.cpp" />
@@ -160,8 +161,11 @@
     <ClCompile Include="SmartPointerMiniProject-1.cpp" />
     <ClCompile Include="templates.cpp" />
     <ClCompile Include="this.cpp" />
+    <ClCompile Include="threadClass.cpp" />
     <ClCompile Include="ThreadfuncArguments.cpp" />
+    <ClCompile Include="ThreadID.cpp" />
     <ClCompile Include="ThreadLaunch.cpp" />
+    <ClCompile Include="ThreadSleep.cpp" />
     <ClCompile Include="Unique1.cpp" />
     <ClCompile Include="VectorSTL.cpp" />
   </ItemGroup>
