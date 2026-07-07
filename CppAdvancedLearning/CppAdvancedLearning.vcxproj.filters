@@ -67,6 +67,9 @@
     <Filter Include="CppAdvancedLearning\CourseWork">
       <UniqueIdentifier>{21dd14c3-82f1-467c-8d8e-bcc780fe2c29}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Concurrency\Week-2">
+      <UniqueIdentifier>{46fecd3a-9b6d-433a-a5ac-579df7fe05ba}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -185,6 +188,15 @@
     </ClCompile>
     <ClCompile Include="threadClass.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week-1</Filter>
+    </ClCompile>
+    <ClCompile Include="ManagingThreads.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-2</Filter>
+    </ClCompile>
+    <ClCompile Include="Multiplethreads.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-2</Filter>
+    </ClCompile>
+    <ClCompile Include="DataRace.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

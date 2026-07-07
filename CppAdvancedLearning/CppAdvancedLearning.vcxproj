@@ -140,6 +140,7 @@
     <ClCompile Include="Copy.cpp" />
     <ClCompile Include="CopyConstructor.cpp" />
     <ClCompile Include="CopyingSandbox.cpp" />
+    <ClCompile Include="DataRace.cpp" />
     <ClCompile Include="E-2.cpp" />
     <ClCompile Include="E1.cpp" />
     <ClCompile Include="E3.cpp" />
@@ -147,8 +148,10 @@
     <ClCompile Include="lambdas.cpp" />
     <ClCompile Include="landrvalues.cpp" />
     <ClCompile Include="LvRvalues.cpp" />
+    <ClCompile Include="ManagingThreads.cpp" />
     <ClCompile Include="Move.cpp" />
     <ClCompile Include="MoveSemantics-1.cpp" />
+    <ClCompile Include="Multiplethreads.cpp" />
     <ClCompile Include="NativeHandle.cpp" />
     <ClCompile Include="noexecpt.cpp" />
     <ClCompile Include="operatoroverloading.cpp" />
