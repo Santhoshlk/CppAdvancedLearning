@@ -198,5 +198,11 @@
     <ClCompile Include="DataRace.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week-2</Filter>
     </ClCompile>
+    <ClCompile Include="Mutex.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-2</Filter>
+    </ClCompile>
+    <ClCompile Include="DataRaceConsequences.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
