@@ -153,6 +153,7 @@
     <ClCompile Include="Move.cpp" />
     <ClCompile Include="MoveSemantics-1.cpp" />
     <ClCompile Include="Multiplethreads.cpp" />
+    <ClCompile Include="Mutex-2.cpp" />
     <ClCompile Include="Mutex.cpp" />
     <ClCompile Include="NativeHandle.cpp" />
     <ClCompile Include="noexecpt.cpp" />
