@@ -210,5 +210,11 @@
     <ClCompile Include="InternallySynchronisedClass.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week-2</Filter>
     </ClCompile>
+    <ClCompile Include="LockGuard.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-2</Filter>
+    </ClCompile>
+    <ClCompile Include="UniqueLock.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
