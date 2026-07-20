@@ -70,6 +70,9 @@
     <Filter Include="CppAdvancedLearning\Concurrency\Week-2">
       <UniqueIdentifier>{46fecd3a-9b6d-433a-a5ac-579df7fe05ba}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Concurrency\Week - 3">
+      <UniqueIdentifier>{7fdfcc2e-0617-48b5-93d6-a58ef923821c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -215,6 +218,12 @@
     </ClCompile>
     <ClCompile Include="UniqueLock.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week-2</Filter>
+    </ClCompile>
+    <ClCompile Include="Timeouts.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
+    <ClCompile Include="timed_mutex.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

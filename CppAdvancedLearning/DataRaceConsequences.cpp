@@ -12,14 +12,15 @@
 //
 //class Base
 //{
-//    public:
+//public:
 //    Base()
 //    {
 //        // technically when the constructor runs the vtable is constructed so we can pass this 
 //        // as this becomes valid
 //        v.push_back(this);
+//        std::this_thread::sleep_for(500ms);
 //    }
-//  
+//
 //    virtual void Print()
 //    {
 //        std::cout << "Base class object" << std::endl;
@@ -29,14 +30,15 @@
 //
 //class Derived : public Base
 //{
-//   public:
+//public:
 //    Derived()
 //    {
+//
 //        v.pop_back();
 //        v.push_back(this);
 //    }
 //
-//    void Print() override 
+//    void Print() override
 //    {
 //        std::cout << "Derived class object" << std::endl;
 //    }
@@ -46,21 +48,21 @@
 //{
 //    // it calls the derived class constructor
 //    Derived d;
-//    std::this_thread::sleep_for(100ms);
-//   
+//
+//
 //}
 //void func2()
 //{
 //    if (!v.empty())
 //    {
 //        // so if the thread dosent interleave it reads the derived if it does it reads the base
-//        for (int i = 0; i < 100; i++)
+//        for (int i = 0; i < 10000; i++)
 //        {
 //            v[0]->Print();
 //        }
-//        
+//
 //    }
-//   
+//
 //}
 //
 //int main()
