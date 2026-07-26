@@ -154,6 +154,7 @@
     <ClCompile Include="ManagingThreads.cpp" />
     <ClCompile Include="Move.cpp" />
     <ClCompile Include="MoveSemantics-1.cpp" />
+    <ClCompile Include="MultipleReaders.cpp" />
     <ClCompile Include="Multiplethreads.cpp" />
     <ClCompile Include="Mutex-2.cpp" />
     <ClCompile Include="Mutex.cpp" />
@@ -166,6 +167,7 @@
     <ClCompile Include="MiniProject1.cpp" />
     <ClCompile Include="perfectForwarding.cpp" />
     <ClCompile Include="PlayerClass.cpp" />
+    <ClCompile Include="SharedMutex.cpp" />
     <ClCompile Include="SmartPointerMiniProject-1.cpp" />
     <ClCompile Include="templates.cpp" />
     <ClCompile Include="this.cpp" />
@@ -176,6 +178,7 @@
     <ClCompile Include="ThreadSleep.cpp" />
     <ClCompile Include="timed_mutex.cpp" />
     <ClCompile Include="Timeouts.cpp" />
+    <ClCompile Include="try_for_until.cpp" />
     <ClCompile Include="Unique1.cpp" />
     <ClCompile Include="UniqueLock.cpp" />
     <ClCompile Include="VectorSTL.cpp" />

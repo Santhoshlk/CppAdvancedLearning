@@ -225,5 +225,14 @@
     <ClCompile Include="timed_mutex.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
     </ClCompile>
+    <ClCompile Include="try_for_until.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
+    <ClCompile Include="MultipleReaders.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
+    <ClCompile Include="SharedMutex.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
