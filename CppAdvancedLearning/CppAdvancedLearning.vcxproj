@@ -167,6 +167,7 @@
     <ClCompile Include="MiniProject1.cpp" />
     <ClCompile Include="perfectForwarding.cpp" />
     <ClCompile Include="PlayerClass.cpp" />
+    <ClCompile Include="SharedDataInitialization.cpp" />
     <ClCompile Include="SharedMutex.cpp" />
     <ClCompile Include="SmartPointerMiniProject-1.cpp" />
     <ClCompile Include="templates.cpp" />
@@ -182,6 +183,9 @@
     <ClCompile Include="Unique1.cpp" />
     <ClCompile Include="UniqueLock.cpp" />
     <ClCompile Include="VectorSTL.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SingletonClass.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

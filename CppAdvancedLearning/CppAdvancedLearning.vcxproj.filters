@@ -234,5 +234,13 @@
     <ClCompile Include="SharedMutex.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
     </ClCompile>
+    <ClCompile Include="SharedDataInitialization.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SingletonClass.h">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
