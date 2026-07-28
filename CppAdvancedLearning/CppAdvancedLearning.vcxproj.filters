@@ -237,6 +237,21 @@
     <ClCompile Include="SharedDataInitialization.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
     </ClCompile>
+    <ClCompile Include="threadlocalvariable.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
+    <ClCompile Include="LazyInitialization.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
+    <ClCompile Include="DoubleLocking.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
+    <ClCompile Include="CallOnce.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
+    <ClCompile Include="MeyersPattern.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SingletonClass.h">

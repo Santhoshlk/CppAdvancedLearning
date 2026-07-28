@@ -131,6 +131,7 @@
   <ItemGroup>
     <ClCompile Include="Arrow.cpp" />
     <ClCompile Include="Auto.cpp" />
+    <ClCompile Include="CallOnce.cpp" />
     <ClCompile Include="Casting.cpp" />
     <ClCompile Include="CEInitiate.cpp" />
     <ClCompile Include="CENewKeyword.cpp" />
@@ -142,6 +143,7 @@
     <ClCompile Include="CopyingSandbox.cpp" />
     <ClCompile Include="DataRace.cpp" />
     <ClCompile Include="DataRaceConsequences.cpp" />
+    <ClCompile Include="DoubleLocking.cpp" />
     <ClCompile Include="E-2.cpp" />
     <ClCompile Include="E1.cpp" />
     <ClCompile Include="E3.cpp" />
@@ -149,9 +151,11 @@
     <ClCompile Include="InternallySynchronisedClass.cpp" />
     <ClCompile Include="lambdas.cpp" />
     <ClCompile Include="landrvalues.cpp" />
+    <ClCompile Include="LazyInitialization.cpp" />
     <ClCompile Include="LockGuard.cpp" />
     <ClCompile Include="LvRvalues.cpp" />
     <ClCompile Include="ManagingThreads.cpp" />
+    <ClCompile Include="MeyersPattern.cpp" />
     <ClCompile Include="Move.cpp" />
     <ClCompile Include="MoveSemantics-1.cpp" />
     <ClCompile Include="MultipleReaders.cpp" />
@@ -176,6 +180,7 @@
     <ClCompile Include="ThreadfuncArguments.cpp" />
     <ClCompile Include="ThreadID.cpp" />
     <ClCompile Include="ThreadLaunch.cpp" />
+    <ClCompile Include="threadlocalvariable.cpp" />
     <ClCompile Include="ThreadSleep.cpp" />
     <ClCompile Include="timed_mutex.cpp" />
     <ClCompile Include="Timeouts.cpp" />
