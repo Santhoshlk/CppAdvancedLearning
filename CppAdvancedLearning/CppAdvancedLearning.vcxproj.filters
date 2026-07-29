@@ -252,6 +252,12 @@
     <ClCompile Include="MeyersPattern.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
     </ClCompile>
+    <ClCompile Include="Deadlock.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
+    <ClCompile Include="PerfectOrdering.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SingletonClass.h">
