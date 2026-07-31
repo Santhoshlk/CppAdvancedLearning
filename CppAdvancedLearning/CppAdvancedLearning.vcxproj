@@ -144,6 +144,9 @@
     <ClCompile Include="DataRace.cpp" />
     <ClCompile Include="DataRaceConsequences.cpp" />
     <ClCompile Include="Deadlock.cpp" />
+    <ClCompile Include="DeadlockPractical.cpp" />
+    <ClCompile Include="DeadLock_Practice.cpp" />
+    <ClCompile Include="DeadLock_TryLock.cpp" />
     <ClCompile Include="DoubleLocking.cpp" />
     <ClCompile Include="E-2.cpp" />
     <ClCompile Include="E1.cpp" />

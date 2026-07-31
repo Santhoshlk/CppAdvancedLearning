@@ -73,6 +73,9 @@
     <Filter Include="CppAdvancedLearning\Concurrency\Week - 3">
       <UniqueIdentifier>{7fdfcc2e-0617-48b5-93d6-a58ef923821c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Concurrency\Week-4">
+      <UniqueIdentifier>{3f15e6a5-492d-4e5b-a4f6-eafd1ed1d965}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -257,6 +260,15 @@
     </ClCompile>
     <ClCompile Include="PerfectOrdering.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week - 3</Filter>
+    </ClCompile>
+    <ClCompile Include="DeadlockPractical.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-4</Filter>
+    </ClCompile>
+    <ClCompile Include="DeadLock_Practice.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-4</Filter>
+    </ClCompile>
+    <ClCompile Include="DeadLock_TryLock.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
