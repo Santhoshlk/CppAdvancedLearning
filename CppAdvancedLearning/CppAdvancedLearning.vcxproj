@@ -151,11 +151,14 @@
     <ClCompile Include="E-2.cpp" />
     <ClCompile Include="E1.cpp" />
     <ClCompile Include="E3.cpp" />
+    <ClCompile Include="E4.cpp" />
     <ClCompile Include="EMC_LandRvalues.cpp" />
     <ClCompile Include="InternallySynchronisedClass.cpp" />
     <ClCompile Include="lambdas.cpp" />
     <ClCompile Include="landrvalues.cpp" />
     <ClCompile Include="LazyInitialization.cpp" />
+    <ClCompile Include="LiveLock.cpp" />
+    <ClCompile Include="LiveLockPractical.cpp" />
     <ClCompile Include="LockGuard.cpp" />
     <ClCompile Include="LvRvalues.cpp" />
     <ClCompile Include="ManagingThreads.cpp" />

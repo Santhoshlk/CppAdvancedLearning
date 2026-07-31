@@ -270,6 +270,15 @@
     <ClCompile Include="DeadLock_TryLock.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week-4</Filter>
     </ClCompile>
+    <ClCompile Include="LiveLock.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-4</Filter>
+    </ClCompile>
+    <ClCompile Include="LiveLockPractical.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-4</Filter>
+    </ClCompile>
+    <ClCompile Include="E4.cpp">
+      <Filter>CppAdvancedLearning\CourseWork</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SingletonClass.h">
