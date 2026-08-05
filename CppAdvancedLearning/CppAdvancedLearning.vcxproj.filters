@@ -285,6 +285,9 @@
     <ClCompile Include="NetworkUploadSimulation.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Projects</Filter>
     </ClCompile>
+    <ClCompile Include="ConditionVariable.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SingletonClass.h">

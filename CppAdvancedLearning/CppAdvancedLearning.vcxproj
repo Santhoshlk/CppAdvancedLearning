@@ -136,6 +136,7 @@
     <ClCompile Include="CEInitiate.cpp" />
     <ClCompile Include="CENewKeyword.cpp" />
     <ClCompile Include="chronoNamespace.cpp" />
+    <ClCompile Include="ConditionVariable.cpp" />
     <ClCompile Include="constexpr-1.cpp" />
     <ClCompile Include="constexpr-2.cpp" />
     <ClCompile Include="Copy.cpp" />
