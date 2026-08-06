@@ -137,11 +137,13 @@
     <ClCompile Include="CENewKeyword.cpp" />
     <ClCompile Include="chronoNamespace.cpp" />
     <ClCompile Include="ConditionVariable.cpp" />
+    <ClCompile Include="ConditionVariablesPredicate.cpp" />
     <ClCompile Include="constexpr-1.cpp" />
     <ClCompile Include="constexpr-2.cpp" />
     <ClCompile Include="Copy.cpp" />
     <ClCompile Include="CopyConstructor.cpp" />
     <ClCompile Include="CopyingSandbox.cpp" />
+    <ClCompile Include="CustomConditionVariable.cpp" />
     <ClCompile Include="DataRace.cpp" />
     <ClCompile Include="DataRaceConsequences.cpp" />
     <ClCompile Include="Deadlock.cpp" />

@@ -4,15 +4,14 @@
 //#include <chrono>
 //#include <mutex>
 //#include <shared_mutex>
-//#include <condition_variable>
+//
 //
 //using namespace std::literals;
 //std::string data_buffer = "";
 //
 //std::shared_mutex mtx;
 //
-//std::condition_variable_any cv;
-//
+//bool condition = false;
 //void func1()
 //{
 //    // this is thread a 
@@ -23,8 +22,15 @@
 //    std::cout << "Thread  has locked the mutex" << std::endl;
 //
 //    // here in the critical section u need the data to be updated by thread 2
+//    // so u need to release the mutex under the condition that the bool is false
 //
-//    cv.wait(lck);
+//    while (!condition)
+//    {
+//        lck.unlock();
+//        std::this_thread::sleep_for(1s);
+//        lck.lock();
+//    }
+//
 //
 //    // after it returns it automatically locks the mutex so u can read here
 //    std::cout << "The data value is :" << data_buffer << std::endl;
@@ -44,14 +50,15 @@
 //
 //    std::cout << "Thread 2 is updating the data" << std::endl;
 //
-//    std::this_thread::sleep_for(2s);
+//    std::this_thread::sleep_for(100ms);
 //
+//    condition = true;
 //    data_buffer = "Condition_Variables";
 //
 //
 //    lck.unlock();
 //    //as all the threads that are waiting need to be notified
-//    cv.notify_all();
+//    std::cout << "All the threads that are waiting are given the updated data:" << std::endl;
 //
 //}
 //

@@ -288,6 +288,12 @@
     <ClCompile Include="ConditionVariable.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week-4</Filter>
     </ClCompile>
+    <ClCompile Include="CustomConditionVariable.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-4</Filter>
+    </ClCompile>
+    <ClCompile Include="ConditionVariablesPredicate.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week-4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SingletonClass.h">
