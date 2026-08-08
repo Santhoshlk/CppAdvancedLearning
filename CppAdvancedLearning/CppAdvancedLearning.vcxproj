@@ -156,6 +156,8 @@
     <ClCompile Include="E3.cpp" />
     <ClCompile Include="E4.cpp" />
     <ClCompile Include="EMC_LandRvalues.cpp" />
+    <ClCompile Include="FutureExceptions.cpp" />
+    <ClCompile Include="futurres.cpp" />
     <ClCompile Include="InternallySynchronisedClass.cpp" />
     <ClCompile Include="lambdas.cpp" />
     <ClCompile Include="landrvalues.cpp" />
@@ -183,6 +185,7 @@
     <ClCompile Include="perfectForwarding.cpp" />
     <ClCompile Include="PerfectOrdering.cpp" />
     <ClCompile Include="PlayerClass.cpp" />
+    <ClCompile Include="Promise.cpp" />
     <ClCompile Include="SharedDataInitialization.cpp" />
     <ClCompile Include="SharedMutex.cpp" />
     <ClCompile Include="SmartPointerMiniProject-1.cpp" />
