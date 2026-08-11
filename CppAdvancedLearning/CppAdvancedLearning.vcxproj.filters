@@ -79,6 +79,9 @@
     <Filter Include="CppAdvancedLearning\Concurrency\Projects">
       <UniqueIdentifier>{98779e3d-ecc7-4571-a025-645c7059a8c0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Concurrency\Week -5">
+      <UniqueIdentifier>{556c4cc2-4805-4113-bbc0-0a609bfb7b87}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -302,6 +305,12 @@
     </ClCompile>
     <ClCompile Include="Promise.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week-4</Filter>
+    </ClCompile>
+    <ClCompile Include="atomic.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
+    <ClCompile Include="E5.cpp">
+      <Filter>CppAdvancedLearning\CourseWork</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
