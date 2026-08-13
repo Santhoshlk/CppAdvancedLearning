@@ -312,6 +312,12 @@
     <ClCompile Include="E5.cpp">
       <Filter>CppAdvancedLearning\CourseWork</Filter>
     </ClCompile>
+    <ClCompile Include="atomicfunction.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
+    <ClCompile Include="SpinLockDemonstration.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SingletonClass.h">

@@ -131,6 +131,7 @@
   <ItemGroup>
     <ClCompile Include="Arrow.cpp" />
     <ClCompile Include="atomic.cpp" />
+    <ClCompile Include="atomicfunction.cpp" />
     <ClCompile Include="Auto.cpp" />
     <ClCompile Include="CallOnce.cpp" />
     <ClCompile Include="Casting.cpp" />
@@ -191,6 +192,7 @@
     <ClCompile Include="SharedDataInitialization.cpp" />
     <ClCompile Include="SharedMutex.cpp" />
     <ClCompile Include="SmartPointerMiniProject-1.cpp" />
+    <ClCompile Include="SpinLockDemonstration.cpp" />
     <ClCompile Include="templates.cpp" />
     <ClCompile Include="this.cpp" />
     <ClCompile Include="threadClass.cpp" />
