@@ -165,6 +165,7 @@
     <ClCompile Include="lambdas.cpp" />
     <ClCompile Include="landrvalues.cpp" />
     <ClCompile Include="LazyInitialization.cpp" />
+    <ClCompile Include="LFP-1.cpp" />
     <ClCompile Include="LiveLock.cpp" />
     <ClCompile Include="LiveLockPractical.cpp" />
     <ClCompile Include="LockGuard.cpp" />

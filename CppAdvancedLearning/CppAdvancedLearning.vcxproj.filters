@@ -82,6 +82,9 @@
     <Filter Include="CppAdvancedLearning\Concurrency\Week -5">
       <UniqueIdentifier>{556c4cc2-4805-4113-bbc0-0a609bfb7b87}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CppAdvancedLearning\Concurrency\Week -5\LockFreeProgramming">
+      <UniqueIdentifier>{5ed4291e-4eab-410b-9943-b545f12bcdcb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerClass.cpp">
@@ -317,6 +320,9 @@
     </ClCompile>
     <ClCompile Include="SpinLockDemonstration.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
+    <ClCompile Include="LFP-1.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5\LockFreeProgramming</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
