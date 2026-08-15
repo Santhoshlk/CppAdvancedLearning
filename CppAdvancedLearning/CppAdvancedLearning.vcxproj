@@ -130,6 +130,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Arrow.cpp" />
+    <ClCompile Include="async.cpp" />
+    <ClCompile Include="asyncPolicy.cpp" />
+    <ClCompile Include="AsyncProgramming-1.cpp" />
     <ClCompile Include="atomic.cpp" />
     <ClCompile Include="atomicfunction.cpp" />
     <ClCompile Include="Auto.cpp" />
@@ -154,6 +157,7 @@
     <ClCompile Include="DeadLock_TryLock.cpp" />
     <ClCompile Include="DoubleLocking.cpp" />
     <ClCompile Include="E-2.cpp" />
+    <ClCompile Include="E-6.cpp" />
     <ClCompile Include="E1.cpp" />
     <ClCompile Include="E3.cpp" />
     <ClCompile Include="E4.cpp" />

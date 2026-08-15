@@ -324,6 +324,18 @@
     <ClCompile Include="LFP-1.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week -5\LockFreeProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="AsyncProgramming-1.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
+    <ClCompile Include="E-6.cpp">
+      <Filter>CppAdvancedLearning\CourseWork</Filter>
+    </ClCompile>
+    <ClCompile Include="async.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
+    <ClCompile Include="asyncPolicy.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SingletonClass.h">
