@@ -32,7 +32,7 @@ int main(void)
 {
     std::string a("async");
     std::string b = "deferred";
-    std::jthread thr(func, std::cref(a));
+    //std::jthread thr(func, std::cref(a));
 
     std::jthread thr2(func, std::cref(b));
 }

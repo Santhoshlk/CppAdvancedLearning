@@ -149,6 +149,7 @@
     <ClCompile Include="CopyConstructor.cpp" />
     <ClCompile Include="CopyingSandbox.cpp" />
     <ClCompile Include="CustomConditionVariable.cpp" />
+    <ClCompile Include="DataParallelism.cpp" />
     <ClCompile Include="DataRace.cpp" />
     <ClCompile Include="DataRaceConsequences.cpp" />
     <ClCompile Include="Deadlock.cpp" />
@@ -194,6 +195,7 @@
     <ClCompile Include="PerfectOrdering.cpp" />
     <ClCompile Include="PlayerClass.cpp" />
     <ClCompile Include="Promise.cpp" />
+    <ClCompile Include="random.cpp" />
     <ClCompile Include="SharedDataInitialization.cpp" />
     <ClCompile Include="SharedMutex.cpp" />
     <ClCompile Include="SmartPointerMiniProject-1.cpp" />

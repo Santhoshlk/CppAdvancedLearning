@@ -336,6 +336,12 @@
     <ClCompile Include="asyncPolicy.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
     </ClCompile>
+    <ClCompile Include="random.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
+    <ClCompile Include="DataParallelism.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SingletonClass.h">
