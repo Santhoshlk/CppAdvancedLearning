@@ -342,6 +342,9 @@
     <ClCompile Include="DataParallelism.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
     </ClCompile>
+    <ClCompile Include="PackagedTask.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5\LockFreeProgramming</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SingletonClass.h">

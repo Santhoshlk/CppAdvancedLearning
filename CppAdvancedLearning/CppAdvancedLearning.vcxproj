@@ -191,6 +191,7 @@
     <ClCompile Include="ImplicitExplict.cpp" />
     <ClCompile Include="MemberInitList.cpp" />
     <ClCompile Include="MiniProject1.cpp" />
+    <ClCompile Include="PackagedTask.cpp" />
     <ClCompile Include="perfectForwarding.cpp" />
     <ClCompile Include="PerfectOrdering.cpp" />
     <ClCompile Include="PlayerClass.cpp" />

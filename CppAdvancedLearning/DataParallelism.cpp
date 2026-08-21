@@ -3,17 +3,16 @@
 #include <future>
 #include <vector>
 #include <random>
+#include <numeric>
 
 std::mt19937 eng;
 
 size_t sum(const std::vector<int>& v, int start, int end)
 {
-    size_t s = 0;
-    for (int i = start; i <= end; i++)
-    {
-        s += v[i];
-    }
-    return s;
+    auto it = v.begin() + start;
+    auto it_end = v.begin() + end +1;
+    size_t sum = std::accumulate(it,it_end,(size_t)0);
+    return sum;
 }
 
 size_t Process(const std::vector<int>& v)
