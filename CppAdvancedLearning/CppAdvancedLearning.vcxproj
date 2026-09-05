@@ -164,8 +164,11 @@
     <ClCompile Include="E4.cpp" />
     <ClCompile Include="E5.cpp" />
     <ClCompile Include="EMC_LandRvalues.cpp" />
+    <ClCompile Include="EPexceptions.cpp" />
+    <ClCompile Include="ExecutionPolicies.cpp" />
     <ClCompile Include="FutureExceptions.cpp" />
     <ClCompile Include="futurres.cpp" />
+    <ClCompile Include="handrollarrayclass.cpp" />
     <ClCompile Include="InternallySynchronisedClass.cpp" />
     <ClCompile Include="lambdas.cpp" />
     <ClCompile Include="landrvalues.cpp" />

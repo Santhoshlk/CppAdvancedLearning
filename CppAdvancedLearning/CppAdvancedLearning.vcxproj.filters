@@ -345,6 +345,15 @@
     <ClCompile Include="PackagedTask.cpp">
       <Filter>CppAdvancedLearning\Concurrency\Week -5\LockFreeProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="ExecutionPolicies.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
+    <ClCompile Include="EPexceptions.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
+    <ClCompile Include="handrollarrayclass.cpp">
+      <Filter>CppAdvancedLearning\Concurrency\Week -5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SingletonClass.h">
